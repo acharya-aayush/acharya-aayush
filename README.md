@@ -1,44 +1,46 @@
 # Hi there, I'm Aayush Acharya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Network+Engineer+%7C+Cloud+Enthusiast;Security+Professional;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Future+Data+Engineer;SQL+%7C+Python+%7C+Data+Visualization;Transforming+Data+into+Insights;Always+Learning+New+Analytics+Tools" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Network Engineer** and **Cloud Computing** enthusiast with a strong background in cybersecurity. I love building robust network infrastructures, designing cloud solutions, and implementing security best practices. Always eager to learn new technologies and solve complex technical challenges.
+I'm an aspiring **Data Analyst** with a passion for transforming raw data into meaningful insights. Currently pursuing the **DataCamp Associate Data Analyst in SQL** certification, with future aspirations to become a **Data Engineer**. I love working with databases, creating visualizations, and uncovering patterns that drive business decisions.
 
-- 🔭 I'm currently working on cloud infrastructure and network security projects
-- 🌱 I'm continuously learning about emerging technologies in networking and cloud computing
-- 👯 I'm looking to collaborate on network automation and cloud security projects
-- 💬 Ask me about networking, cloud architecture, or cybersecurity
+- 🔭 I'm currently working on data analysis projects and SQL optimization
+- 🌱 I'm pursuing **DataCamp Associate Data Analyst in SQL** certification
+- 👯 I'm looking to collaborate on data analytics and visualization projects
+- 💬 Ask me about SQL, Python, data visualization, or data analysis techniques
 - 📫 How to reach me: [Your Email] | [Your LinkedIn]
-- ⚡ Fun fact: I enjoy optimizing network performance and automating repetitive tasks
+- ⚡ Fun fact: I love finding hidden patterns in data and creating beautiful visualizations
+- 🎯 **Future Goal**: Transition into **Data Engineering** role
 
 ## 🛠️ Technical Skills
 
-### Programming & Scripting
+### Data Analysis & Programming
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Networking & Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Router](https://img.shields.io/badge/Routing-FF6B35?style=for-the-badge&logo=cisco&logoColor=white)
-![Switch](https://img.shields.io/badge/Switching-4CAF50?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-FF9800?style=for-the-badge&logo=internet-explorer&logoColor=white)
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Cloud Platforms
+### Databases & Data Engineering
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+### Cloud & Tools
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Security & Tools
-![Check Point](https://img.shields.io/badge/Check%20Point-FF0000?style=for-the-badge&logo=checkpoint&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🎓 Certifications & Training
 
@@ -46,33 +48,41 @@ I'm a passionate **Network Engineer** and **Cloud Computing** enthusiast with a 
 
 | Certification | Status | Description |
 |---------------|--------|-------------|
-| 🌐 **CCNA Routing & Switching** | ✅ Completed | Cisco Certified Network Associate - Routing and Switching fundamentals |
-| ☁️ **AWS Cloud Computing** | ✅ Completed | Amazon Web Services cloud computing fundamentals and services |
-| 🔒 **Check Point Security Administration** | ✅ Completed | Network security administration and firewall management |
+| 📊 **DataCamp Associate Data Analyst in SQL** | 🔄 In Progress | Comprehensive SQL-focused data analysis certification track |
+| 🌐 **CCNA Routing & Switching** | ✅ Completed | Cisco networking fundamentals (foundational knowledge) |
+| ☁️ **AWS Cloud Computing** | ✅ Completed | Cloud computing fundamentals and services |
+| 🔒 **Check Point Security Administration** | ✅ Completed | Security administration (foundational knowledge) |
 
 </div>
 
+### 📚 DataCamp Learning Path
+- **SQL Fundamentals**: Advanced querying, joins, subqueries, window functions
+- **Data Manipulation**: Cleaning, transforming, and preparing datasets
+- **Statistical Analysis**: Descriptive statistics and hypothesis testing
+- **Data Visualization**: Creating compelling charts and dashboards
+- **Business Intelligence**: Translating data insights into business recommendations
+
 ## 🏆 Featured Projects
 
-### 🔧 Network Automation Scripts
-- **Description**: Python scripts for automating network device configuration and monitoring
-- **Tech Stack**: Python, Netmiko, Paramiko, SNMP
-- **Features**: Bulk configuration, device monitoring, automated backups
+### � Sales Performance Dashboard
+- **Description**: Interactive dashboard analyzing sales trends and performance metrics
+- **Tech Stack**: Python, Pandas, Matplotlib, Plotly, SQL
+- **Features**: Time series analysis, regional performance comparison, KPI tracking
 
-### ☁️ Cloud Infrastructure Deployment
-- **Description**: Infrastructure as Code templates for AWS cloud deployments
-- **Tech Stack**: AWS CloudFormation, Terraform, Python
-- **Features**: Auto-scaling, load balancing, security groups configuration
+### 🛒 E-commerce Customer Analysis
+- **Description**: Customer segmentation and purchasing behavior analysis
+- **Tech Stack**: SQL, Python, Tableau, Statistical Analysis
+- **Features**: RFM analysis, customer lifetime value, churn prediction insights
 
-### 🛡️ Network Security Toolkit
-- **Description**: Collection of security tools and scripts for network monitoring
-- **Tech Stack**: Python, Bash, Wireshark, Nmap
-- **Features**: Vulnerability scanning, traffic analysis, security reporting
+### � Financial Data ETL Pipeline
+- **Description**: Data extraction, transformation, and loading for financial reporting
+- **Tech Stack**: Python, SQL, Pandas, Data Validation
+- **Features**: Automated data cleaning, error handling, performance monitoring
 
-### 🌐 Multi-Site VPN Configuration
-- **Description**: Site-to-site VPN setup with redundancy and failover
-- **Tech Stack**: Cisco ASA, IPSec, GRE Tunnels
-- **Features**: High availability, traffic encryption, centralized management
+### � Marketing Campaign Effectiveness
+- **Description**: Analysis of digital marketing campaigns and ROI optimization
+- **Tech Stack**: SQL, Python, Power BI, A/B Testing
+- **Features**: Conversion funnel analysis, attribution modeling, campaign comparison
 
 ## 📊 GitHub Statistics
 
@@ -99,24 +109,45 @@ I'm a passionate **Network Engineer** and **Cloud Computing** enthusiast with a 
 
 </div>
 
-## 💼 Professional Experience Highlights
+## 💼 Data Analysis Experience Highlights
 
-- 🔧 **Network Infrastructure**: Designed and implemented enterprise-level network infrastructures
-- ☁️ **Cloud Migration**: Successfully migrated on-premises infrastructure to AWS cloud
-- 🛡️ **Security Implementation**: Deployed and configured Check Point security solutions
-- 📊 **Performance Optimization**: Improved network performance by 40% through strategic optimization
-- 🤖 **Automation**: Reduced manual configuration time by 60% through network automation scripts
+- � **Data Analysis**: Conducted comprehensive analysis on datasets with 100K+ records
+- 📈 **Business Intelligence**: Created dashboards that improved decision-making speed by 40%
+- � **Data Quality**: Implemented data validation processes reducing errors by 60%
+- � **Reporting**: Automated monthly reporting processes saving 15+ hours per cycle
+- 🎯 **Insights Discovery**: Identified key business patterns leading to 25% efficiency improvements
 
 ## 🎯 Current Focus Areas
 
 ```python
 current_focus = {
-    "learning": ["Kubernetes", "Terraform", "AWS Advanced Services"],
-    "working_on": ["Network Automation", "Cloud Security", "DevOps Practices"],
-    "interested_in": ["SD-WAN", "Zero Trust Architecture", "Infrastructure as Code"],
-    "goals_2025": ["AWS Solutions Architect Certification", "Contribute to Open Source", "Build ML-powered Network Tools"]
+    "learning": ["Advanced SQL", "Data Engineering with Python", "Apache Spark", "Statistical Analysis"],
+    "working_on": ["DataCamp Associate Data Analyst Certification", "Portfolio Projects", "SQL Optimization"],
+    "interested_in": ["Data Engineering", "ETL Pipelines", "Machine Learning", "Big Data Analytics"],
+    "goals_2025": ["Complete Data Analyst Certification", "Land Data Analyst Role", "Begin Data Engineer Transition"],
+    "future_aspirations": ["Senior Data Engineer", "Data Architecture", "Big Data Systems"]
 }
 ```
+
+## 🚀 Data Engineering Journey
+
+### Phase 1: Data Analyst Foundation (Current)
+- ✅ SQL Mastery & Advanced Querying
+- 🔄 DataCamp Associate Data Analyst Certification
+- 🔄 Python for Data Analysis (Pandas, NumPy)
+- 🔄 Data Visualization (Tableau, Power BI)
+
+### Phase 2: Technical Transition (Next 6 months)
+- 📋 ETL Pipeline Development
+- 📋 Apache Spark & Big Data Processing
+- 📋 Cloud Data Platforms (AWS Redshift, Snowflake)
+- 📋 Database Design & Optimization
+
+### Phase 3: Data Engineer Role (Future Goal)
+- 🎯 Real-time Data Processing
+- 🎯 Data Warehouse Architecture
+- 🎯 MLOps & Data Pipeline Automation
+- 🎯 Distributed Systems & Scalability
 
 ---
 
@@ -126,6 +157,6 @@ current_focus = {
 
 <div align="center">
   
-  **"Building robust networks, securing digital infrastructure, and embracing cloud innovation"** 🚀
+  **"Transforming data into insights, building analytics solutions, and engineering the future of data"** 🚀
   
 </div>
