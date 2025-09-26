@@ -1,7 +1,7 @@
 # Hi there, I'm Aayush Acharya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+TypeScript+%7C+JavaScript;AI+Enthusiast+%7C+Problem+Solver;Building+Cool+Projects+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+JavaScript+%7C+Python;AI+Enthusiast+%7C+Problem+Solver;Building+Cool+Projects+%26+Learning" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -9,10 +9,10 @@
 I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **problem-solving**. I enjoy learning through hands-on projects and applying technology to real-world problems. Currently exploring **data analysis** to expand my skill set while continuing to build innovative web applications.
 
 - 🔭 I'm currently working on web development projects and exploring data analysis
-- 🎓 Studying **BSc Computer Science and Information Technology (CSIT)**
+- 🎓 Studying **BSc CSIT (6th Semester)** at **St. Xavier's College, Maitighar**
 - 🌱 Currently learning **DataCamp Associate Data Analyst in SQL** certification
 - 👯 I'm looking to collaborate on web projects and data analysis initiatives
-- 💬 Ask me about React, TypeScript, JavaScript, AI, or web development
+- 💬 Ask me about React, JavaScript, Python, AI, or web development
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/acharyaaayush) | [GitHub](https://github.com/acharya-aayush)
 - ⚡ Fun fact: I won 1st place at SXC 2.0 Hackathon for building an accessibility app! 🏆
 
@@ -20,7 +20,6 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,8 +32,11 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FF6B35?style=for-the-badge&logo=meta&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=facebook&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Platforms
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -47,7 +49,7 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 
 | Degree/Certification | Status | Institution/Platform |
 |---------------------|--------|---------------------|
-| 🎓 **BSc Computer Science and Information Technology** | 📚 In Progress | Current University |
+| 🎓 **BSc Computer Science and Information Technology** | 📚 6th Semester | St. Xavier's College, Maitighar |
 | 📊 **DataCamp Associate Data Analyst in SQL** | 🔄 In Progress | DataCamp |
 | 💻 **IT Fundamentals** | ✅ Completed | CCNA, AWS, Check Point concepts |
 
@@ -75,20 +77,32 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 - **GitHub**: [View Project](https://github.com/acharya-aayush/TypeSmash)
 
 ### 📋 Taskify
-- **Description**: Modern, drag-and-drop task management app built with React and TypeScript
-- **Tech Stack**: React, Tailwind CSS, TypeScript, Vite
+- **Description**: Modern, drag-and-drop task management app built with React
+- **Tech Stack**: React, Tailwind CSS, JavaScript, Vite
 - **Features**: DnD Kit interactions, clean interface, responsive layout
 - **GitHub**: [View Project](https://github.com/acharya-aayush/Taskify)
 
-### 💹 Trading Platform Demo
-- **Description**: Multi-user trading platform with React frontend and Node.js backend
+### 🇳🇵 ChitraGupta - Nepal AI Financial Advisor (Latest Project)
+- **Description**: Nepal-specific AI financial advisor that provides legitimate business advice based on actual Nepal regulations and legal documents
+- **Tech Stack**: Python 3.10+, LLaMA 3.2 3B (4-bit quantized), RAG, FAISS, Flask
+- **Features**: 
+  - RAG system with Nepal legal/financial documents
+  - Offline functionality after initial setup
+  - Real Nepal VAT thresholds, tax rates, and business requirements
+  - Industry-specific advice with actual legal compliance
+- **Team**: Built with Nidhi Pradhan & Suravi Paudel under Er. Sujan Sharma's mentorship
+- **Event**: Gen AI Workshop/Bootcamp Project
+- **GitHub**: [View Project](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
+
+### 💹 Trading Platform (Mockup)
+- **Description**: Early-stage mockup of a trading platform interface
 - **Tech Stack**: React, Tailwind CSS, Shadcn UI, Node.js/Express, SQLite
-- **Features**: JWT authentication, real-time trading, portfolio management, watchlists
-- **Status**: Recently Completed
+- **Features**: Basic UI components, authentication flow, portfolio mockup
+- **Status**: Work in Progress - UI/UX exploration phase
 
 ### 👁️ Vision Mate (🥇 1st Place Winner)
 - **Description**: Lightweight navigation tool for visually impaired users on smart glasses
-- **Tech Stack**: Vite + React + TypeScript, Tailwind CSS, Shadcn UI, TensorFlow, Web Speech API
+- **Tech Stack**: Vite + React + JavaScript, Tailwind CSS, Shadcn UI, TensorFlow, Web Speech API
 - **Features**: Real-time object detection, audio feedback, accessibility focus
 - **Achievement**: **🏆 Won 1st Place (Gold Medal)** at SXC 2.0 Hackathon
 - **GitHub**: [View Project](https://github.com/acharya-aayush/Vision-Mate)
@@ -140,9 +154,9 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 ![AI Projects](https://img.shields.io/badge/AI%20Projects-FF9F43?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### 🔄 Currently Learning
-- **Advanced React patterns and TypeScript**
+- **Advanced React patterns and JavaScript ES6+**
 - **SQL and data analysis through DataCamp**
-- **AI/ML applications in web development**
+- **AI/ML applications with RAG systems**
 - **Full-stack development best practices**
 
 ### 🌟 Interested in Exploring
@@ -165,8 +179,8 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 ```javascript
 const aayush = {
     pronouns: "he/him",
-    currentFocus: ["Web Development", "AI", "Data Analysis"],
-    favoriteTech: ["React", "TypeScript", "TensorFlow"],
+    currentFocus: ["Web Development", "AI/RAG Systems", "Data Analysis"],
+    favoriteTech: ["React", "Python", "LLaMA", "TensorFlow"],
     hackathonWins: 1,
     codingStyle: "Clean, readable, and innovative",
     motto: "Learning by building, building by learning",
