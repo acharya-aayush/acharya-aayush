@@ -1,22 +1,55 @@
-# Hi there, I'm Aayush Acharya! 👋
+# Hello, I'm Aayush Acharya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Future+Data+Engineer;SQL+%7C+Python+%7C+Data+Visualization;Transforming+Data+into+Insights;Always+Learning+New+Analytics+Tools" alt="Typing SVG" />
+  <img src="https://rea### **Sales Perfor### **### **Sales### **### **Marketing Campaign Effectiveness**
+Analysis of digital marketing campaigns and ROI optimizationnancial Data ETL Pipeline**
+Data extraction, transformation, and loading for financial reportingerformance Dashboard**
+Interactive dashboard analyzing sales trends and performance metricsnancial Data ETL Pipeline**
+Data extra---
+
+## Data Analysis Experience Highlights
+
+- **Data Analysis**: Conducted comprehensive analysis on datasets with 100K+ records
+- **Business Intelligence**: Created dashboards that improved decision-making speed by 40%
+- **Data Quality**: Implemented data validation processes reducing errors by 60%
+- **Reporting**: Automated monthly reporting processes saving 15+ hours per cycle
+- **Insights Discovery**: Identified key business patterns leading to 25% efficiency improvementstransformation, and loading for financial reporting
+- **Tech Stack**: Python, SQL, Pandas, Data Validation
+- **Features**: Automated data cleaning, error handling, performance monitoring
+
+### **Marketing Campaign Effectiveness**
+Analysis of digital marketing campaigns and ROI optimization
+- **Tech Stack**: SQL, Python, Power BI, A/B Testing
+- **Features**: Conversion funnel analysis, attribution modeling, campaign comparisonhboard**
+Interactive dashboard analyzing sales trends and performance metrics
+- **Tech Stack**: Python, Pandas, Matplotlib, Plotly, SQL
+- **Features**: Time series analysis, regional performance comparison, KPI tracking
+
+### **E-commerce Customer Analysis**
+Customer segmentation and purchasing behavior analysis
+- **Tech Stack**: SQL, Python, Tableau, Statistical Analysis
+- **Features**: RFM analysis, customer lifetime value, churn prediction insightsg-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Future+Data+Engineer;SQL+%7C+Python+%7C+Data+Visualization;Transforming+Data+into+Insights;Always+Learning+New+Analytics+Tools" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+---
+
+## About Me
 
 I'm an aspiring **Data Analyst** with a passion for transforming raw data into meaningful insights. Currently pursuing the **DataCamp Associate Data Analyst in SQL** certification, with future aspirations to become a **Data Engineer**. I love working with databases, creating visualizations, and uncovering patterns that drive business decisions.
 
-- 🔭 I'm currently working on data analysis projects and SQL optimization
-- 🌱 I'm pursuing **DataCamp Associate Data Analyst in SQL** certification
-- 👯 I'm looking to collaborate on data analytics and visualization projects
-- 💬 Ask me about SQL, Python, data visualization, or data analysis techniques
-- 📫 How to reach me: [Your Email] | [Your LinkedIn]
-- ⚡ Fun fact: I love finding hidden patterns in data and creating beautiful visualizations
-- 🎯 **Future Goal**: Transition into **Data Engineering** role
+**Current Focus:**
+- Working on data analysis projects and SQL optimization
+- Pursuing **DataCamp Associate Data Analyst in SQL** certification
+- Looking to collaborate on data analytics and visualization projects
+- Ask me about SQL, Python, data visualization, or data analysis techniques
 
-## 🛠️ Technical Skills
+**Contact:** [Your Email] | [Your LinkedIn]
+
+**Future Goal:** Transition into **Data Engineering** role
+
+---
+
+## Technical Skills
 
 ### Data Analysis & Programming
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,35 +75,39 @@ I'm an aspiring **Data Analyst** with a passion for transforming raw data into m
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🎓 Certifications & Training
+---
+
+## Certifications & Training
 
 <div align="center">
 
 | Certification | Status | Description |
 |---------------|--------|-------------|
-| 📊 **DataCamp Associate Data Analyst in SQL** | 🔄 In Progress | Comprehensive SQL-focused data analysis certification track |
-| 🌐 **CCNA Routing & Switching** | ✅ Completed | Cisco networking fundamentals (foundational knowledge) |
-| ☁️ **AWS Cloud Computing** | ✅ Completed | Cloud computing fundamentals and services |
-| 🔒 **Check Point Security Administration** | ✅ Completed | Security administration (foundational knowledge) |
+| **DataCamp Associate Data Analyst in SQL** | `In Progress` | Comprehensive SQL-focused data analysis certification track |
+| **CCNA Routing & Switching** | `Completed` | Cisco networking fundamentals (foundational knowledge) |
+| **AWS Cloud Computing** | `Completed` | Cloud computing fundamentals and services |
+| **Check Point Security Administration** | `Completed` | Security administration (foundational knowledge) |
 
 </div>
 
-### 📚 DataCamp Learning Path
+### DataCamp Learning Path
 - **SQL Fundamentals**: Advanced querying, joins, subqueries, window functions
 - **Data Manipulation**: Cleaning, transforming, and preparing datasets
 - **Statistical Analysis**: Descriptive statistics and hypothesis testing
 - **Data Visualization**: Creating compelling charts and dashboards
 - **Business Intelligence**: Translating data insights into business recommendations
 
-## 🏆 Featured Projects
+---
+
+## Featured Projects
 
 ### � Sales Performance Dashboard
 - **Description**: Interactive dashboard analyzing sales trends and performance metrics
 - **Tech Stack**: Python, Pandas, Matplotlib, Plotly, SQL
 - **Features**: Time series analysis, regional performance comparison, KPI tracking
 
-### 🛒 E-commerce Customer Analysis
-- **Description**: Customer segmentation and purchasing behavior analysis
+### **E-commerce Customer Analysis**
+Customer segmentation and purchasing behavior analysis
 - **Tech Stack**: SQL, Python, Tableau, Statistical Analysis
 - **Features**: RFM analysis, customer lifetime value, churn prediction insights
 
@@ -84,21 +121,25 @@ I'm an aspiring **Data Analyst** with a passion for transforming raw data into m
 - **Tech Stack**: SQL, Python, Power BI, A/B Testing
 - **Features**: Conversion funnel analysis, attribution modeling, campaign comparison
 
-## 📊 GitHub Statistics
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=react&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=acharya-aayush&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-## 🤝 Connect With Me
+---
+
+## Connect With Me
 
 <div align="center">
 
@@ -117,7 +158,9 @@ I'm an aspiring **Data Analyst** with a passion for transforming raw data into m
 - � **Reporting**: Automated monthly reporting processes saving 15+ hours per cycle
 - 🎯 **Insights Discovery**: Identified key business patterns leading to 25% efficiency improvements
 
-## 🎯 Current Focus Areas
+---
+
+## Current Focus Areas
 
 ```python
 current_focus = {
@@ -129,25 +172,25 @@ current_focus = {
 }
 ```
 
-## 🚀 Data Engineering Journey
+## Data Engineering Journey
 
-### Phase 1: Data Analyst Foundation (Current)
-- ✅ SQL Mastery & Advanced Querying
-- 🔄 DataCamp Associate Data Analyst Certification
-- 🔄 Python for Data Analysis (Pandas, NumPy)
-- 🔄 Data Visualization (Tableau, Power BI)
+### Phase 1: Data Analyst Foundation `Current`
+- **Completed** SQL Mastery & Advanced Querying
+- **In Progress** DataCamp Associate Data Analyst Certification
+- **In Progress** Python for Data Analysis (Pandas, NumPy)
+- **In Progress** Data Visualization (Tableau, Power BI)
 
-### Phase 2: Technical Transition (Next 6 months)
-- 📋 ETL Pipeline Development
-- 📋 Apache Spark & Big Data Processing
-- 📋 Cloud Data Platforms (AWS Redshift, Snowflake)
-- 📋 Database Design & Optimization
+### Phase 2: Technical Transition `Next 6 months`
+- **Planned** ETL Pipeline Development
+- **Planned** Apache Spark & Big Data Processing
+- **Planned** Cloud Data Platforms (AWS Redshift, Snowflake)
+- **Planned** Database Design & Optimization
 
-### Phase 3: Data Engineer Role (Future Goal)
-- 🎯 Real-time Data Processing
-- 🎯 Data Warehouse Architecture
-- 🎯 MLOps & Data Pipeline Automation
-- 🎯 Distributed Systems & Scalability
+### Phase 3: Data Engineer Role `Future Goal`
+- **Target** Real-time Data Processing
+- **Target** Data Warehouse Architecture
+- **Target** MLOps & Data Pipeline Automation
+- **Target** Distributed Systems & Scalability
 
 ---
 
@@ -157,6 +200,6 @@ current_focus = {
 
 <div align="center">
   
-  **"Transforming data into insights, building analytics solutions, and engineering the future of data"** 🚀
+  **"Transforming data into insights, building analytics solutions, and engineering the future of data"**
   
 </div>
