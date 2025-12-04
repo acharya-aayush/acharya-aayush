@@ -64,6 +64,35 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 
 ## 🏆 Featured Projects
 
+### 🎨 SketchLink
+- **Description**: Real-time multiplayer drawing and guessing game with smooth canvas sync and a clean paper-themed UI  
+- **Tech Stack**: React, TypeScript, Vite, Tailwind CSS, Socket.io, Node.js, Express  
+- **Features**: Multiplayer rooms, drawing tools, live chat, scoring system, custom avatars, emoji reactions, gallery, mobile-friendly  
+- **Live Demo**: [Demo](https://darling-entremet-3d94ad.netlify.app) 
+- **GitHub**: [View Project](https://github.com/acharya-aayush/sketchlink)
+
+---
+
+### 📄 Resume Auditor
+- **Description**: AI-powered resume analysis tool providing ATS compatibility, scoring, keyword checks, and rewrite suggestions  
+- **Tech Stack**: React, JavaScript/TypeScript, Tailwind CSS, AI integration, PDF parsing  
+- **Features**: Resume scoring, keyword extraction, optimization suggestions, PDF parsing, history saving, fast client-side UI  
+- **Live Demo**: [Demo](https://resumeauditor.netlify.app)
+- **GitHub**: [View Project](https://github.com/acharya-aayush/ResumeAuditor)
+
+
+### 🇳🇵 ChitraGupta - Nepal AI Financial Advisor (Latest Project)
+- **Description**: Nepal-specific AI financial advisor that provides legitimate business advice based on actual Nepal regulations and legal documents
+- **Tech Stack**: Python 3.10+, LLaMA 3.2 3B (4-bit quantized), RAG, FAISS, Flask
+- **Features**: 
+  - RAG system with Nepal legal/financial documents
+  - Offline functionality after initial setup
+  - Real Nepal VAT thresholds, tax rates, and business requirements
+  - Industry-specific advice with actual legal compliance
+- **Team**: Built with Nidhi Pradhan & Suravi Paudel under Er. Sujan Sharma's mentorship
+- **Event**: Gen AI Workshop/Bootcamp Project
+- **GitHub**: [View Project](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
+
 ### 🎮 Ultimate Tic Tac Toe
 - **Description**: A cyberpunk-themed implementation of Ultimate Tic Tac Toe with advanced AI opponents
 - **Tech Stack**: HTML/CSS, JavaScript, Canvas API
@@ -81,18 +110,6 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 - **Tech Stack**: React, Tailwind CSS, JavaScript, Vite
 - **Features**: DnD Kit interactions, clean interface, responsive layout
 - **GitHub**: [View Project](https://github.com/acharya-aayush/Taskify)
-
-### 🇳🇵 ChitraGupta - Nepal AI Financial Advisor (Latest Project)
-- **Description**: Nepal-specific AI financial advisor that provides legitimate business advice based on actual Nepal regulations and legal documents
-- **Tech Stack**: Python 3.10+, LLaMA 3.2 3B (4-bit quantized), RAG, FAISS, Flask
-- **Features**: 
-  - RAG system with Nepal legal/financial documents
-  - Offline functionality after initial setup
-  - Real Nepal VAT thresholds, tax rates, and business requirements
-  - Industry-specific advice with actual legal compliance
-- **Team**: Built with Nidhi Pradhan & Suravi Paudel under Er. Sujan Sharma's mentorship
-- **Event**: Gen AI Workshop/Bootcamp Project
-- **GitHub**: [View Project](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
 
 ### 💹 Trading Platform (Mockup)
 - **Description**: Early-stage mockup of a trading platform interface
