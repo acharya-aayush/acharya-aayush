@@ -77,7 +77,7 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 - **Description**: AI-powered resume analysis tool providing ATS compatibility, scoring, keyword checks, and rewrite suggestions  
 - **Tech Stack**: React, JavaScript/TypeScript, Tailwind CSS, AI integration, PDF parsing  
 - **Features**: Resume scoring, keyword extraction, optimization suggestions, PDF parsing, history saving, fast client-side UI  
-- **Live Demo**: [Demo](https://resumeauditor.netlify.app)
+- **Live Demo**: [Demo]([https://resumeauditor.netlify.app](https://resume-auditor.vercel.app/))
 - **GitHub**: [View Project](https://github.com/acharya-aayush/ResumeAuditor)
 
 
