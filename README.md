@@ -68,7 +68,7 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 - **Description**: Real-time multiplayer drawing and guessing game with smooth canvas sync and a clean paper-themed UI  
 - **Tech Stack**: React, TypeScript, Vite, Tailwind CSS, Socket.io, Node.js, Express  
 - **Features**: Multiplayer rooms, drawing tools, live chat, scoring system, custom avatars, emoji reactions, gallery, mobile-friendly  
-- **Live Demo**: [Demo]([https://darling-entremet-3d94ad.netlify.app](https://sketchlinks.vercel.app/)) 
+- **Live Demo**: [Demo](https://sketchlinks.vercel.app/)
 - **GitHub**: [View Project](https://github.com/acharya-aayush/sketchlink)
 
 ---
@@ -77,7 +77,7 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 - **Description**: AI-powered resume analysis tool providing ATS compatibility, scoring, keyword checks, and rewrite suggestions  
 - **Tech Stack**: React, JavaScript/TypeScript, Tailwind CSS, AI integration, PDF parsing  
 - **Features**: Resume scoring, keyword extraction, optimization suggestions, PDF parsing, history saving, fast client-side UI  
-- **Live Demo**: [Demo]([https://resumeauditor.netlify.app](https://resume-auditor.vercel.app/))
+- **Live Demo**: [Demo](https://resume-auditor.vercel.app/)
 - **GitHub**: [View Project](https://github.com/acharya-aayush/ResumeAuditor)
 
 
