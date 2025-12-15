@@ -126,17 +126,17 @@ I'm a **BSc CSIT Student** passionate about **web development**, **AI**, and **p
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=react&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ## 🤝 Connect With Me
 
