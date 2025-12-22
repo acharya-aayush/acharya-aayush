@@ -1,4 +1,4 @@
-# Hi there, I'm Aayush Acharya! 👋
+# Hi there, m Aayush Acharya! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+JavaScript+%7C+Python;AI+Enthusiast+%7C+Problem+Solver;Building+Cool+Projects+%26+Learning" alt="Typing SVG" />
