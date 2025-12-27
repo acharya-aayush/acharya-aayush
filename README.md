@@ -1,6 +1,5 @@
 # Hi, I'm Aayush. 👋
 
-```javascript
 /**
  * @file AayushAcharya.js
  * @status 6th Sem BSc CSIT | St. Xavier's College
