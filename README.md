@@ -1,7 +1,7 @@
 # Hi there, I'm Aayush Acharya! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter)" alt="Typing SVG" />
 </p>
 
 ---
@@ -68,10 +68,10 @@ Real-time multiplayer drawing and guessing game with smooth canvas synchronizati
 ### 📊 Development Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak graph" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117)" height="150" alt="stats graph" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&background=0d1117](https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&background=0d1117)" height="150" alt="streak graph" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="150" alt="languages graph" />
 </p>
 
 ---
@@ -87,10 +87,5 @@ const developer = {
     codingStyle: "Clean, readable, and innovative"
 };
 ```
-
 console.log("Always ready for the next challenge! 🚀");
-<p align="center">
-
-<br /> <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</p>
+<p align="center"> <a href="https://linkedin.com/in/acharyaaayush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://acharyaaayush8080.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="mailto:acharyaaayush8080@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br /> <br /> <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> </p>
