@@ -39,10 +39,9 @@ I do not just write code; I build tools that solve actual problems.
 
 ## 🏆 Featured Projects
 
-### 🇳🇵 ChitraGupta — Nepal AI Financial Advisor
-🔗 https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor  
+### 🇳🇵 [ChitraGupta — Nepal AI Financial Advisor](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
 
-RAG-based AI using **LLaMA 3.2** and **FAISS** for Nepal government financial documents.
+RAG-based AI using **LLaMA 3.2** and **FAISS** to deliver accurate financial and tax guidance based on official Nepal government documents.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![LLaMA](https://img.shields.io/badge/LLaMA_3.2-0467DF?style=flat-square)
@@ -50,10 +49,9 @@ RAG-based AI using **LLaMA 3.2** and **FAISS** for Nepal government financial do
 
 ---
 
-### 👁️ Vision Mate — 🥇 1st Place Hackathon Winner
-🔗 https://github.com/acharya-aayush/Vision-Mate  
+### 👁️ [Vision Mate — 🥇 1st Place Hackathon Winner](https://github.com/acharya-aayush/Vision-Mate)
 
-Real-time navigation aid for visually impaired users.
+Real-time navigation assistant for visually impaired users using object detection and audio feedback, built under 48 hours.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square)
@@ -61,16 +59,22 @@ Real-time navigation aid for visually impaired users.
 
 ---
 
-### 🎨 SketchLink
-🔗 https://sketchlinks.vercel.app  
+### 🎨 [SketchLink](https://sketchlinks.vercel.app/)
 
-Real-time multiplayer drawing and guessing game.
+Real-time multiplayer drawing and guessing game with smooth canvas synchronization and custom avatars.
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square)
 
 ---
+
+### 📂 More Projects
+
+- **[Resume Auditor](https://resume-auditor.vercel.app/)** — AI-powered ATS compatibility checker  
+- **[TypeSmash](https://github.com/acharya-aayush/TypeSmash)** — Minimalist typing test with Zoro Mode  
+- **[Ultimate Tic Tac Toe](https://github.com/acharya-aayush/Ultimate-Tic-Tac-Toe)** — Cyberpunk-themed game with Minimax AI  
+
 
 ## 📊 Development Dashboard
 
