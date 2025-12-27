@@ -1,8 +1,8 @@
 # Hi there, I'm Aayush Acharya! 👋
 
-<div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter)" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -67,12 +67,12 @@ Real-time multiplayer drawing and guessing game with smooth canvas synchronizati
 
 ### 📊 Development Dashboard
 
-<div align="center">
-  <img src="[https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117](https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117)" height="165" alt="stats graph" />
-  <img src="[https://aayush-streaks.vercel.app/?user=acharya-aayush&theme=tokyonight&hide_border=true&bg_color=0d1117](https://aayush-streaks.vercel.app/?user=acharya-aayush&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="165" alt="streak graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak graph" />
   <br />
-  <img src="[https://aayush-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117](https://aayush-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="165" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-aayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</p>
 
 ---
 
@@ -86,5 +86,11 @@ const developer = {
     funFact: "I can build a functional web app faster than I can decide what to have for lunch! 🍕",
     codingStyle: "Clean, readable, and innovative"
 };
+```
 
 console.log("Always ready for the next challenge! 🚀");
+<p align="center">
+
+<br /> <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</p>
