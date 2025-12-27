@@ -1,8 +1,9 @@
 # Hi there, I'm Aayush Acharya! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BSc+CSIT+Student+%7C+Web+Developer;React+%7C+Python+%7C+AI+RAG+Systems;1st+Place+Winner+%40+SXC+2.0+Hackathon;Building+Solutions+that+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2196F3&center=true&vCenter=true&width=680&lines=BSc+CSIT+Student+%7C+Web+%26+AI+Developer;React+%7C+Python+%7C+RAG+Systems;1st+Place+Team+Winner+%40+SXC+2.0+Hackathon;Building+Practical+AI+Solutions+That+Ship" alt="Typing SVG" />
 </p>
+
 
 ---
 
