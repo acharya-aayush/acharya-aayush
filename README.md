@@ -74,7 +74,14 @@ Real-time multiplayer drawing and guessing game.
 
 ## 📊 Development Dashboard
 
-<p align="center"> <img src="https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" /> <img src="https://aayush-streaks.vercel.app/?user=acharya-aayush&theme=tokyonight&hide_border=true" width="48%" /> </p>
+<p align="center">
+  <img src="https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://aayush-streaks.vercel.app/?user=acharya-aayush&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
 
 ---
 
