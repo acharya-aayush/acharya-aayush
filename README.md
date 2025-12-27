@@ -17,58 +17,38 @@ I am a **BSc CSIT Student** (6th Sem) at **St. Xavier's College** with a passion
 
 ### 🛠️ Technical Toolkit
 
-<table align="center">
-  <tr>
-    <td align="center" width="250"><strong>Frontend</strong></td>
-    <td align="center" width="250"><strong>Backend & DB</strong></td>
-    <td align="center" width="250"><strong>AI & Data</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/RAG_Systems-FF6B35?style=flat-square" />
-    </td>
-  </tr>
-</table>
+**Frontend**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+**Backend & Database**
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+**AI & Machine Learning**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Systems-FF6B35?style=flat-square" /> <img src="https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white" />
 
 ---
 
 ### 🏆 Top Featured Projects
 
-#### 🇳🇵 [ChitraGupta - Nepal AI Financial Advisor](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
-**The Problem:** Finding specific Nepal legal/tax info is hard.  
-**The Solution:** A RAG-based AI system using **LLaMA 3.2** and **FAISS** to provide localized financial advice based on actual Nepal government documents.
-> `Python` `RAG` `Flask` `FAISS`
+#### 🇳🇵 [ChitraGupta — Nepal AI Financial Advisor](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
+> A RAG-based AI system providing localized financial advice based on actual Nepal government documents.
+`Python` • `RAG` • `LLaMA 3.2` • `FAISS`
 
-#### 👁️ [Vision Mate](https://github.com/acharya-aayush/Vision-Mate) — *🥇 1st Place Hackathon Winner*
-An accessibility tool for the visually impaired using real-time object detection and audio feedback.
-> `React` `TensorFlow.js` `Web Speech API`
+#### 👁️ [Vision Mate](https://github.com/acharya-aayush/Vision-Mate) — *🥇 1st Place Winner*
+> Accessibility tool for the visually impaired using real-time object detection and audio feedback.
+`React` • `TensorFlow.js` • `Web Speech API`
 
 #### 🎨 [SketchLink](https://sketchlinks.vercel.app/)
-Real-time multiplayer drawing game with smooth canvas synchronization.
-> `Socket.io` `TypeScript` `Node.js` `React`
+> Real-time multiplayer drawing game with smooth canvas synchronization.
+`Socket.io` • `TypeScript` • `Node.js` • `React`
 
 <details>
-<summary>📂 <b>View More Projects (Resume Auditor, TypeSmash, etc.)</b></summary>
+<summary><b>📂 View More Projects (Resume Auditor, TypeSmash, etc.)</b></summary>
 
 * **[Resume Auditor](https://resume-auditor.vercel.app/)**: AI-powered ATS compatibility checker.
 * **[TypeSmash](https://github.com/acharya-aayush/TypeSmash)**: Minimalist typing test with "Zoro Mode."
 * **[Ultimate Tic Tac Toe](https://github.com/acharya-aayush/Ultimate-Tic-Tac-Toe)**: Cyberpunk-themed game with minimax AI.
-* **[Taskify](https://github.com/acharya-aayush/Taskify)**: Drag-and-drop task management.
 </details>
-
----
 
 ### 📊 GitHub Activity
 
