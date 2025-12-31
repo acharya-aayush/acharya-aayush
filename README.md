@@ -71,7 +71,7 @@ Real-time multiplayer drawing and guessing game with smooth canvas synchronizati
 
 - **[Resume Auditor](https://resume-auditor.vercel.app/)** — AI-powered ATS compatibility checker  
 - **[TypeSmash](https://github.com/acharya-aayush/TypeSmash)** — Minimalist typing test with Zoro Mode  
-- **[Ultimate Tic Tac Toe](https://github.com/acharya-aayush/Ultimate-Tic-Tac-Toe)** — Cyberpunk-themed game with Minimax AI  
+- **[Ultimate Tic Tac Toe](https://acharya-aayush.github.io/Ultimate-Tic-Tac-Toe-Night-City-Edition/)** — Cyberpunk-themed game with Minimax AI  
 
 
 ## 📊 Development Dashboard
