@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a **BSc CSIT Student (6th Sem)** at **St. Xavier's College, Maitighar**, bridging the gap between complex AI logic and clean web interfaces.
+I am a **BSc CSIT Student (7th Sem)** at **St. Xavier's College, Maitighar**, bridging the gap between complex AI logic and clean web interfaces.
 
 I do not just write code; I build tools that solve actual problems.
 
