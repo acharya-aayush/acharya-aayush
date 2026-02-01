@@ -8,8 +8,6 @@
 
 I am a **BSc CSIT Student (7th Sem)** at **St. Xavier's College, Maitighar**, bridging the gap between complex AI logic and clean web interfaces.
 
-I do not just write code; I build tools that solve actual problems.
-
 - 🔭 **Currently working on:** Optimizing RAG systems and full-stack web apps  
 - 🌱 **Learning:** DataCamp Associate Data Analyst (SQL)  
 - 🏆 **Milestone:** 1st Place at **SXC 2.0 Hackathon** for *Vision Mate*  
@@ -92,7 +90,7 @@ Real-time multiplayer drawing and guessing game with smooth canvas synchronizati
 ```javascript
 const developer = {
   name: "Aayush Acharya",
-  education: "BSc CSIT (6th Sem)",
+  education: "BSc CSIT (7th Sem)",
   focus: ["Web", "AI", "RAG Systems"],
   codingStyle: "Clean, readable, innovative"
 };
