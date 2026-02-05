@@ -45,7 +45,7 @@ RAG-based AI using **LLaMA 3.2** and **FAISS** to deliver accurate financial and
 
 ---
 
-### 👁️ [Vision Mate — 🥇 1st Place Hackathon Winner](https://github.com/acharya-aayush/Vision-Mate)
+### 👁️ [Vision Mate — 🥇 1st Place Hackathon Winner](https://github.com/acharya-aayush/VisionMate)
 
 Real-time navigation assistant for visually impaired users using object detection and audio feedback, built under 48 hours.
 
