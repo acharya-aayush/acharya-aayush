@@ -18,20 +18,11 @@ I am a **BSc CSIT Student (7th Sem)** at **St. Xavier's College, Maitighar**, br
 
 ## 🛠️ Technical Toolkit
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend, AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B35?style=for-the-badge)
-
----
+| Category | Tech |
+| :--- | :--- |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35" alt="React" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JS" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35" alt="TS" /> &nbsp; <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35" alt="Tailwind" /> |
+| **Backend & AI** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node" /> &nbsp; <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="35" height="35" alt="TF" /> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="SQL" /> |
+_________________________
 
 ## 🏆 Featured Projects
 
@@ -96,4 +87,21 @@ const developer = {
 };
 ```
 console.log("Always ready for the next challenge.");
-<p align="center"> <a href="https://linkedin.com/in/acharyaaayush"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://acharyaaayush8080.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:acharyaaayush8080@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <br /><br /> <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=blue&style=flat-square&label=Profile+Views" /> </p> 
+
+<p align="center">
+  <a href="https://linkedin.com/in/acharyaaayush" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/linkedin.it.svg" width="35" height="35" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://acharyaaayush8080.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/website.svg" width="35" height="35" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:acharyaaayush8080@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/mail.svg" width="35" height="35" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
