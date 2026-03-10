@@ -97,4 +97,18 @@ const developer = {
 };
 ```
 console.log("Always ready for the next challenge.");
-<p align="center"> <a href="https://linkedin.com/in/acharyaaayush"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://acharyaaayush8080.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:acharyaaayush8080@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <br /><br /> <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=blue&style=flat-square&label=Profile+Views" /> </p> 
+<p align="center">
+  <a href="https://linkedin.com/in/acharyaaayush" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+  </a>
+  <a href="https://acharyaaayush8080.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio" />
+  </a>
+  <a href="mailto:acharyaaayush8080@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=acharya-aayush&color=2196F3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p> 
