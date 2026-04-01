@@ -16,46 +16,96 @@ I am a **BSc CSIT Student (7th Sem)** at **St. Xavier's College, Maitighar**, br
 
 ---
 
-## 🛠️ Technical Toolkit
+<h2>🛠️ Technical Toolkit</h2>
 
-<p>
-  <!-- Frontend -->
-  <a target="_blank" href="https://react.dev/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42"/>
-  </a>
-  
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
-  </a>
+<h3>Frontend</h3>
+<table>
+<tr>
 
-  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" height="64"/>
+</a>
+</td>
 
-  <a target="_blank" href="https://vitejs.dev/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" height="64"/>
+</a>
+</td>
 
-  <!-- Backend / AI -->
-  <a target="_blank" href="https://www.python.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" height="64"/>
+</a>
+</td>
 
-  <a target="_blank" href="https://nodejs.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" height="64"/>
+</a>
+</td>
 
-  <a target="_blank" href="https://www.tensorflow.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" height="64"/>
+</a>
+</td>
 
-  <a target="_blank" href="https://www.postgresql.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
-  </a>
+<td align="center">
+<a href="https://vitejs.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" height="64"/>
+</a>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
+
+<h3>Backend, AI & Data</h3>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="64"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="64"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" height="64"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask" height="64"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" height="64"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="64"/>
+</a>
+</td>
+
+</tr>
+</table>
+
 
 ## 🏆 Featured Projects
 
