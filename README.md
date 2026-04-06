@@ -9,7 +9,7 @@
 I am a **BSc CSIT Student (7th Sem)** at **St. Xavier's College, Maitighar**, bridging the gap between complex AI logic and clean web interfaces.
 
 - 🔭 **Currently working on:** Optimizing RAG systems and full-stack web apps  
-- 🌱 **Learning:** DataCamp Data Engineer Associate 
+- 🌱 **Learning:** AI & Data Engineering 
 - 🏆 **Milestone:** 1st Place at **SXC 2.0 Hackathon** for *Vision Mate*  
 - 👯 **Looking for:** AI-integrated web collaborations  
 - ⚡ **Vibe:** Learning by building, building by learning  
