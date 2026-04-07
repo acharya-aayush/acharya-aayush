@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Pixel Art Room" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="90%" alt="Pixel Art Room" />
 
+<br/>
+
+
+<p align="center">
+  <a href="https://linkedin.com/in/acharyaaayush" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://acharyaaayush8080.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" height="60" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:acharyaaayush2k4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" /></a>
+</p>
+<br/>
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2196F3&center=true&vCenter=true&width=680&lines=BSc+CSIT+Student+%7C+Web+%26+AI+Developer;React+%7C+Python+%7C+RAG+Systems;1st+Place+Team+Winner+%40+SXC+2.0+Hackathon;Building+Practical+AI+Solutions+That+Ship" alt="Typing SVG" />
 
 <br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/acharyaaayush" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://acharyaaayush8080.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" height="60" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:acharyaaayush2k4@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="60" alt="Email" /></a>
-</p>
-</br>
+<br/>
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <th colspan="2" style="border: none; text-align: center; padding-bottom: 20px;"><h2>About Me</h2></th>
