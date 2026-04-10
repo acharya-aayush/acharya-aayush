@@ -20,13 +20,14 @@
   </tr>
   <tr style="border: none;">
     <td width="65%" style="border: none; font-size: 15px; line-height: 1.6;">
-      I am a developer and system engineer based in Kathmandu, focused on bridging the gap between complex AI logic and clean web interfaces. Currently completing my BSc CSIT at St. Xavier's College, I specialize in building RAG systems and full-stack applications.
-      <br/><br/>
-      <b>Academic:</b> 7th Semester Student at St. Xavier's College, Maitighar<br/>
-      <b>Focus:</b> AI R&D and Data Engineering<br/>
-      <b>Achievement:</b> Gold Medalist @ SXC 2.0 Hackathon for Vision Mate<br/>
-      <b>Philosophy:</b> Practical, tactical, and minimal.
-    </td>
+  I’m currently studying BSc CSIT at St. Xavier’s College. 
+  I work on web applications, mostly dealing with backend logic and data. Lately, I’ve been exploring ways to integrate AI features into projects in a practical way.
+  <br/><br/>
+  <b>Academic:</b> 7th Semester Student at St. Xavier’s College, Maitighar<br/>
+  <b>Focus:</b> Data Engineering & AI Applications<br/>
+  <b>Hackathon Experience:</b> Won Sandbox 2.0 (Vision Mate) & helped organized Sandbox 3.0<br/>
+  <b>Approach:</b> Practical and minimal
+</td>
     <td width="35%" align="center" style="border: none;">
       <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="180" alt="Tech Visual" style="border-radius: 10px;" />
     </td>
