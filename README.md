@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="90%" alt="Pixel Art Room" />
+<img src="https://github-clock-api.vercel.app/api/time?v=3" width="90%" alt="Pixel Art Room" />
 
 <br/>
 <br/>
