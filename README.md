@@ -59,7 +59,7 @@
       <img src="https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=000000" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=000000&v=1" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
   <tr style="border: none;">
