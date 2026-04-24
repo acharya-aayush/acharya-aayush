@@ -56,10 +56,10 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
    <td width="50%" align="center" style="border: none;">
-      <img src="https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&hide_border=true&count_private=true&bg_color=000000&v=2&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+      <img src="https://aayush-stats.vercel.app/api?username=acharya-aayush&show_icons=true&hide_border=true&count_private=true&bg_color=000000&v=3&title_color=2196F3&icon_color=2196F3&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=000000&v=2" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=acharya-aayush&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3&background=000000&v=3" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
   <tr style="border: none;">
@@ -75,7 +75,7 @@
 
 ## Featured Projects
 
-### [ChitraGupta: AI Financial Advisor](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
+### [AI Financial Advisor](https://github.com/acharya-aayush/ChitraGuptaAI_FinancialAdvisor)
 A RAG-based AI system specifically for the Nepalese context, using LLaMA and FAISS to navigate government tax and financial documents.  
 <img src="https://skillicons.dev/icons?i=python,flask" height="25" />
 
